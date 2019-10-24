@@ -1,3 +1,4 @@
+#Written 10/24/2019 TDR
 from gazpacho import get, Soup
 import pandas as pd
 
